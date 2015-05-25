@@ -8,6 +8,7 @@
   <packaging>pom</packaging>
   <name>simoncat-police-and-thief</name>
   <modules>
+    <!--<module>simoncat-police-and-thief-core</module> -->
     <module>simoncat-police-and-thief-core</module>
   </modules>
   
@@ -140,11 +141,7 @@
 	<plugin>
 		<groupId>org.apache.maven.plugins</groupId>
 		<artifactId>maven-compiler-plugin</artifactId>
-		<version>2.3.2</version>
-		<configuration>
-			<source>1.7</source>
-			<target>1.7</target>
-		</configuration>
+		<version>3.3</version>
 	</plugin>
 </plugins>
   </build>

@@ -9,7 +9,6 @@
   <name>simoncat-police-and-thief</name>
   <modules>
     <module>simoncat-police-and-thief-core</module>
-    <module>my-app</module>
   </modules>
   
   <properties>
